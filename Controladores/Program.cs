@@ -16,7 +16,7 @@ namespace Mclarba4eval.Controladores
         public static void Main(string[] args)
         {
             int opcion = 4;
-            string especialidad = "poyo";
+            string especialidad = "pollo";
             char[] letraDni = {'T', 'R', 'W', 'A', 'G', 'M', 'Y', 'F', 'P', 'D', 'X', 'B', 'N', 'J', 'Z', 'S', 'Q', 'V', 'H', 'L', 'C', 'K', 'E'};
 
             MenuInterfaz Menu = new MenuImplementacion();
